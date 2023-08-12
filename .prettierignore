@@ -1,0 +1,18 @@
+# .prettierignore
+
+build
+coverage
+.angular
+dist
+src/scss
+src/assets
+
+**/*.js
+**/*.spec.ts
+**/*.json
+**/*.md
+**/*.css
+
+# **/*.html
+# **/*.ts
+# **/*.scss
